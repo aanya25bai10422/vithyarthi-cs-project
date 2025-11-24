@@ -104,10 +104,6 @@ pip install tk
    * Enter incomplete expressions like `5+`
 5. Compare results with a standard calculator.
 
----
 
-## 📸 Screenshots (Optional)
-
-You can add screenshots inside a folder named **/screenshots** and link them here:
 
 
