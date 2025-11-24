@@ -53,7 +53,7 @@ The user interface is clean, simple, and easy to use.
 * **Python 3.x**
 * **Tkinter (GUI library)**
 * **Math module (`import math`)**
-* Optional: VS Code 
+*  VS Code 
 
 ---
 
