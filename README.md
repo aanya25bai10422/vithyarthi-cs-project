@@ -62,7 +62,7 @@ The user interface is clean, simple, and easy to use.
 ### **1. Clone the repository**
 
 ```
-git clone 
+git clone https://github.com/aanya25bai10422/vithyarthi-cs-project.git
 ```
 
 ### **2. Navigate to the project folder**
